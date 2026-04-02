@@ -8,7 +8,7 @@ Pipeline complet **detect → track → KPI** sans GPU ni capteur physique — s
 
 ## Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/getrichthroughcode/assets/demo.mp4
 
 > 8 agents simulés, tracker SORT, 200 frames @ 10 fps
 
